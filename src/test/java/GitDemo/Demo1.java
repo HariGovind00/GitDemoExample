@@ -9,4 +9,10 @@ System.out.println("Hello git....");
 System.out.println("Hello git master....");
 System.out.println("Hello git welcome....");
 }
+
+public static void maa()
+{
+
+System.out.println("Maa");
+}
 }
