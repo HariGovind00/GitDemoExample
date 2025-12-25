@@ -15,4 +15,10 @@ public static void maa()
 
 System.out.println("Maa");
 }
+
+public static void paa()
+{
+
+System.out.println("paa");
+}
 }
