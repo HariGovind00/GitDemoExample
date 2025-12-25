@@ -4,8 +4,10 @@ public class Demo1
 {
 public static void main(String[] args)
 {
-System.out.println("Hello git....");	
-System.out.println("Hello git masterdevelop....");
 
+System.out.println("Hello git....");
+System.out.println("Hello git master....");
+System.out.println("Hello git welcome....");
+System.out.println("Hello git delete....");
 }
 }
